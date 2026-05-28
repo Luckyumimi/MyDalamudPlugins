@@ -1,9 +1,9 @@
 {
   "Author": "attick, daemitus, Khayle, lichi7887",
-  "Name": "XIV Combo Expanded",
-  "InternalName": "XIVComboExpanded",
-  "AssemblyVersion": "2.0.6.1",
-  "Description": "国服修复版，非汉化，This plugin condenses combos and mutually exclusive abilities onto a single button. For example, a 1-2-3 combo would become 1-1-1.",
+  "Name": "XIVComboExpandedCN",
+  "InternalName": "XIVComboExpandedCN",
+  "AssemblyVersion": "2.0.6.0",
+  "Description": "粗制滥造AI翻译",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/lichi7887/XIVComboExpanded",
   "Tags": [
