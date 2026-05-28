@@ -1,12 +1,10 @@
 import json
 import os
-from time import time
-from sys import argv
-from os.path import getmtime
+from os.path import basename, getmtime, normpath
 from zipfile import ZipFile, ZIP_DEFLATED
 
 BRANCH = os.environ['GITHUB_REF'].split('refs/heads/')[-1]
-DOWNLOAD_URL = 'https://github.com/daemitus/MyDalamudPlugins/raw/{branch}/plugins/{plugin_name}/latest.zip'
+DOWNLOAD_URL = 'https://raw.githubusercontent.com/lichi7887/MyDalamudPlugins/{branch}/plugins/{plugin_name}/latest.zip'
 
 DEFAULTS = {
     'IsHide': False,
@@ -57,7 +55,7 @@ def extract_manifests():
     for dirpath, dirnames, filenames in os.walk('./plugins'):
         if len(filenames) == 0 or 'latest.zip' not in filenames:
             continue
-        plugin_name = dirpath.split('/')[-1]
+        plugin_name = basename(normpath(dirpath))
         latest_zip = f'{dirpath}/latest.zip'
         with ZipFile(latest_zip) as z:
             manifest = json.loads(z.read(f'{plugin_name}.json').decode('utf-8'))
