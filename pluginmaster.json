@@ -5,7 +5,7 @@
         "Punchline": "Condenses combos and mutually exclusive abilities onto a single button.",
         "Description": "粗制滥造AI翻译",
         "InternalName": "XIVComboExpandedCN",
-        "AssemblyVersion": "2.0.6.1",
+        "AssemblyVersion": "2.0.6.2",
         "RepoUrl": "https://github.com/lichi7887/XIVComboExpanded",
         "ApplicableVersion": "any",
         "Tags": [
