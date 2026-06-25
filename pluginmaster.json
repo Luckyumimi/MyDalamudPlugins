@@ -1,29 +1,52 @@
 [
-    {
-        "Author": "attick, daemitus, Khayle, lichi7887",
-        "Name": "XIVComboExpandedCN",
-        "Punchline": "Condenses combos and mutually exclusive abilities onto a single button.",
-        "Description": "粗制滥造AI翻译",
-        "InternalName": "XIVComboExpandedCN",
-        "AssemblyVersion": "2.0.6.2",
-        "RepoUrl": "https://github.com/lichi7887/XIVComboExpanded",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "combo",
-            "xivcombo",
-            "expanded",
-            "pcombo"
-        ],
-        "DalamudApiLevel": 15,
-        "LoadPriority": 0,
-        "IconUrl": "https://raw.githubusercontent.com/lichi7887/XIVComboExpanded/master/res/icon.png",
-        "ImageUrls": [],
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/lichi7887/MyDalamudPlugins/master/plugins/XIVComboExpandedCN/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/lichi7887/MyDalamudPlugins/master/plugins/XIVComboExpandedCN/latest.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/lichi7887/MyDalamudPlugins/master/plugins/XIVComboExpandedCN/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1781898393"
-    }
+  {
+    "Author": "Ottermandias, Nylfae, Adam, Wintermute",
+    "Name": "Penumbra-CN",
+    "Punchline": "Runtime mod loader and manager.",
+    "Description": "Runtime mod loader and manager.",
+    "InternalName": "Penumbra-CN",
+    "AssemblyVersion": "9.0.0.1",
+    "RepoUrl": "https://github.com/MeowZWR/Penumbra-CN",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "modding"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadPriority": 69420,
+    "LoadRequiredState": 2,
+    "LoadSync": true,
+    "IconUrl": "https://raw.githubusercontent.com/xivdev/Penumbra/master/images/icon.png",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/lichi7887/MyDalamudPlugins/master/plugins/Penumbra-CN/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/lichi7887/MyDalamudPlugins/master/plugins/Penumbra-CN/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/lichi7887/MyDalamudPlugins/master/plugins/Penumbra-CN/latest.zip",
+    "DownloadCount": 0,
+    "LastUpdate": "1782376653"
+  },
+  {
+    "Author": "attick, daemitus, Khayle, lichi7887",
+    "Name": "XIVComboExpandedCN",
+    "Punchline": "Condenses combos and mutually exclusive abilities onto a single button.",
+    "Description": "粗制滥造AI翻译",
+    "InternalName": "XIVComboExpandedCN",
+    "AssemblyVersion": "2.0.6.2",
+    "RepoUrl": "https://github.com/lichi7887/XIVComboExpanded",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "combo",
+      "xivcombo",
+      "expanded",
+      "pcombo"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadPriority": 0,
+    "IconUrl": "https://raw.githubusercontent.com/lichi7887/XIVComboExpanded/master/res/icon.png",
+    "ImageUrls": [],
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/lichi7887/MyDalamudPlugins/master/plugins/XIVComboExpandedCN/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/lichi7887/MyDalamudPlugins/master/plugins/XIVComboExpandedCN/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/lichi7887/MyDalamudPlugins/master/plugins/XIVComboExpandedCN/latest.zip",
+    "DownloadCount": 0,
+    "LastUpdate": "1781898393"
+  }
 ]
