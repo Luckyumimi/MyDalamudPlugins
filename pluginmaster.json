@@ -1,26 +1,29 @@
 [
-  {
-    "Author": "Ottermandias, Nylfae, Adam, Wintermute",
-    "Name": "Penumbra-CN",
-    "Punchline": "Runtime mod loader and manager.",
-    "Description": "Runtime mod loader and manager.",
-    "InternalName": "Penumbra-CN",
-    "AssemblyVersion": "9.0.0.1",
-    "RepoUrl": "https://github.com/MeowZWR/Penumbra-CN",
+   {
     "ApplicableVersion": "any",
-    "Tags": [
-      "modding"
-    ],
+    "AssemblyVersion": "1.6.1.10",
+    "Author": "Ottermandias, Adam, Wintermute",
     "DalamudApiLevel": 15,
-    "LoadPriority": 69420,
-    "LoadRequiredState": 2,
-    "LoadSync": true,
-    "IconUrl": "https://raw.githubusercontent.com/xivdev/Penumbra/master/images/icon.png",
+    "Description": "运行时模组加载和管理器。",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/lichi7887/MyDalamudPlugins/master/plugins/Penumbra-CN/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/lichi7887/MyDalamudPlugins/master/plugins/Penumbra-CN/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/lichi7887/MyDalamudPlugins/master/plugins/Penumbra-CN/latest.zip",
-    "DownloadCount": 0,
-    "LastUpdate": "1782376653"
+    "IconUrl": "https://static.meowrs.com/Plugins/Penumbra/icon.png",
+    "InternalName": "Penumbra",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "LastUpdate": 0,
+    "LoadPriority": 69420,
+    "LoadRequiredState": 2,
+    "LoadSync": true,
+    "Name": "Penumbra",
+    "Punchline": "运行时模组加载和管理器。",
+    "RepoUrl": "https://github.com/Lichi7887/Penumbra-CN",
+    "Tags": [
+      "Sea Of Stars"
+    ],
+    "TestingAssemblyVersion": "1.6.1.10",
+    "TestingDalamudApiLevel": 15
   },
   {
     "Author": "attick, daemitus, Khayle, lichi7887",
