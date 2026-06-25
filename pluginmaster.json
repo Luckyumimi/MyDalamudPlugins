@@ -1,5 +1,5 @@
 [
-   {
+  {
     "ApplicableVersion": "any",
     "AssemblyVersion": "1.6.1.10",
     "Author": "Ottermandias, Adam, Wintermute",
@@ -24,6 +24,29 @@
     ],
     "TestingAssemblyVersion": "1.6.1.10",
     "TestingDalamudApiLevel": 15
+  },
+  {
+    "Author": "Ottermandias, Nylfae, Adam, Wintermute",
+    "Name": "Penumbra-CN",
+    "Punchline": "Runtime mod loader and manager.",
+    "Description": "Runtime mod loader and manager.",
+    "InternalName": "Penumbra-CN",
+    "AssemblyVersion": "1.6.1.10",
+    "RepoUrl": "https://github.com/MeowZWR/Penumbra-CN",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "modding"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadPriority": 69420,
+    "LoadRequiredState": 2,
+    "LoadSync": true,
+    "IconUrl": "https://raw.githubusercontent.com/xivdev/Penumbra/master/images/icon.png",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/lichi7887/MyDalamudPlugins/master/plugins/Penumbra-CN/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/lichi7887/MyDalamudPlugins/master/plugins/Penumbra-CN/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/lichi7887/MyDalamudPlugins/master/plugins/Penumbra-CN/latest.zip",
+    "DownloadCount": 0,
+    "LastUpdate": "1782378323"
   },
   {
     "Author": "attick, daemitus, Khayle, lichi7887",

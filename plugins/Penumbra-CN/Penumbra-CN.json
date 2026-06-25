@@ -4,7 +4,7 @@
   "Punchline": "Runtime mod loader and manager.",
   "Description": "Runtime mod loader and manager.",
   "InternalName": "Penumbra-CN",
-  "AssemblyVersion": "9.0.0.1",
+  "AssemblyVersion": "1.6.1.10",
   "RepoUrl": "https://github.com/MeowZWR/Penumbra-CN",
   "ApplicableVersion": "any",
   "Tags": [
@@ -19,5 +19,5 @@
   "DownloadLinkTesting": "https://raw.githubusercontent.com/lichi7887/MyDalamudPlugins/master/plugins/Penumbra-CN/latest.zip",
   "DownloadLinkUpdate": "https://raw.githubusercontent.com/lichi7887/MyDalamudPlugins/master/plugins/Penumbra-CN/latest.zip",
   "DownloadCount": 0,
-  "LastUpdate": "1782376653"
+  "LastUpdate": "1782378323"
 }
