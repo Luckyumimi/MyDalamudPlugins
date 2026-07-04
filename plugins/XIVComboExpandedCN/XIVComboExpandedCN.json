@@ -1,11 +1,11 @@
 {
-  "Author": "attick, daemitus, Khayle, lichi7887",
+  "Author": "attick, daemitus, Khayle, luckyumimi",
   "Name": "XIVComboExpandedCN",
   "InternalName": "XIVComboExpandedCN",
   "AssemblyVersion": "2.0.6.2",
   "Description": "粗制滥造AI翻译",
   "ApplicableVersion": "any",
-  "RepoUrl": "https://github.com/lichi7887/XIVComboExpanded",
+  "RepoUrl": "https://github.com/luckyumimi/XIVComboExpanded",
   "Tags": [
     "combo",
     "xivcombo",
@@ -18,7 +18,7 @@
   "CanUnloadAsync": false,
   "LoadPriority": 0,
   "ImageUrls": [],
-  "IconUrl": "https://raw.githubusercontent.com/lichi7887/XIVComboExpanded/master/res/icon.png",
+  "IconUrl": "https://raw.githubusercontent.com/luckyumimi/XIVComboExpanded/master/res/icon.png",
   "Punchline": "Condenses combos and mutually exclusive abilities onto a single button.",
   "AcceptsFeedback": true
 }

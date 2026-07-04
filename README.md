@@ -1,6 +1,6 @@
 Daemitus' Dalamud Plugins
 
-Drop `https://raw.githubusercontent.com/lichi7887/MyDalamudPlugins/master/pluginmaster.json` into your third party repo URL list.
+Drop `https://raw.githubusercontent.com/luckyumimi/MyDalamudPlugins/master/pluginmaster.json` into your third party repo URL list.
 
 Daemitus has stopped working on the plugins available on this repository.
 

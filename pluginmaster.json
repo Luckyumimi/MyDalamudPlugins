@@ -1,12 +1,12 @@
 [
   {
-    "Author": "attick, daemitus, Khayle, lichi7887",
+    "Author": "attick, daemitus, Khayle, luckyumimi",
     "Name": "XIVComboExpandedCN",
     "Punchline": "Condenses combos and mutually exclusive abilities onto a single button.",
     "Description": "粗制滥造AI翻译",
     "InternalName": "XIVComboExpandedCN",
     "AssemblyVersion": "2.0.6.2",
-    "RepoUrl": "https://github.com/lichi7887/XIVComboExpanded",
+    "RepoUrl": "https://github.com/luckyumimi/XIVComboExpanded",
     "ApplicableVersion": "any",
     "Tags": [
       "combo",
@@ -16,13 +16,13 @@
     ],
     "DalamudApiLevel": 15,
     "LoadPriority": 0,
-    "IconUrl": "https://raw.githubusercontent.com/lichi7887/XIVComboExpanded/master/res/icon.png",
+    "IconUrl": "https://raw.githubusercontent.com/luckyumimi/XIVComboExpanded/master/res/icon.png",
     "ImageUrls": [],
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/lichi7887/MyDalamudPlugins/master/plugins/XIVComboExpandedCN/latest.zip",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/luckyumimi/MyDalamudPlugins/master/plugins/XIVComboExpandedCN/latest.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/lichi7887/MyDalamudPlugins/master/plugins/XIVComboExpandedCN/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/lichi7887/MyDalamudPlugins/master/plugins/XIVComboExpandedCN/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/luckyumimi/MyDalamudPlugins/master/plugins/XIVComboExpandedCN/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/luckyumimi/MyDalamudPlugins/master/plugins/XIVComboExpandedCN/latest.zip",
     "DownloadCount": 0,
     "LastUpdate": "1781898393"
   }

@@ -4,7 +4,7 @@ from os.path import basename, getmtime, normpath
 from zipfile import ZipFile, ZIP_DEFLATED
 
 BRANCH = os.environ['GITHUB_REF'].split('refs/heads/')[-1]
-DOWNLOAD_URL = 'https://raw.githubusercontent.com/lichi7887/MyDalamudPlugins/{branch}/plugins/{plugin_name}/latest.zip'
+DOWNLOAD_URL = 'https://raw.githubusercontent.com/luckyumimi/MyDalamudPlugins/{branch}/plugins/{plugin_name}/latest.zip'
 
 DEFAULTS = {
     'IsHide': False,

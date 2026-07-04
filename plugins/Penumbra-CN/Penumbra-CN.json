@@ -15,9 +15,9 @@
   "LoadRequiredState": 2,
   "LoadSync": true,
   "IconUrl": "https://raw.githubusercontent.com/xivdev/Penumbra/master/images/icon.png",
-  "DownloadLinkInstall": "https://raw.githubusercontent.com/lichi7887/MyDalamudPlugins/master/plugins/Penumbra-CN/latest.zip",
-  "DownloadLinkTesting": "https://raw.githubusercontent.com/lichi7887/MyDalamudPlugins/master/plugins/Penumbra-CN/latest.zip",
-  "DownloadLinkUpdate": "https://raw.githubusercontent.com/lichi7887/MyDalamudPlugins/master/plugins/Penumbra-CN/latest.zip",
+  "DownloadLinkInstall": "https://raw.githubusercontent.com/luckyumimi/MyDalamudPlugins/master/plugins/Penumbra-CN/latest.zip",
+  "DownloadLinkTesting": "https://raw.githubusercontent.com/luckyumimi/MyDalamudPlugins/master/plugins/Penumbra-CN/latest.zip",
+  "DownloadLinkUpdate": "https://raw.githubusercontent.com/luckyumimi/MyDalamudPlugins/master/plugins/Penumbra-CN/latest.zip",
   "DownloadCount": 0,
   "LastUpdate": "1782378323"
 }
