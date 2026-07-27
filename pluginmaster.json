@@ -1,29 +1,52 @@
 [
-  {
-    "Author": "attick, daemitus, Khayle, luckyumimi",
-    "Name": "XIVComboExpandedCN",
-    "Punchline": "Condenses combos and mutually exclusive abilities onto a single button.",
-    "Description": "粗制滥造AI翻译",
-    "InternalName": "XIVComboExpandedCN",
-    "AssemblyVersion": "2.0.6.3",
-    "RepoUrl": "https://github.com/luckyumimi/XIVComboExpanded",
-    "ApplicableVersion": "any",
-    "Tags": [
-      "combo",
-      "xivcombo",
-      "expanded",
-      "pcombo"
-    ],
-    "DalamudApiLevel": 15,
-    "LoadPriority": 0,
-    "IconUrl": "https://raw.githubusercontent.com/luckyumimi/XIVComboExpanded/master/res/icon.png",
-    "ImageUrls": [],
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/luckyumimi/MyDalamudPlugins/master/plugins/XIVComboExpandedCN/latest.zip",
-    "IsHide": false,
-    "IsTestingExclusive": false,
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/luckyumimi/MyDalamudPlugins/master/plugins/XIVComboExpandedCN/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/luckyumimi/MyDalamudPlugins/master/plugins/XIVComboExpandedCN/latest.zip",
-    "DownloadCount": 0,
-    "LastUpdate": "1784201581"
-  }
+    {
+        "Author": "lichi",
+        "Name": "Nintendo Pro Bridge",
+        "Punchline": "\u8ba9\u5b98\u65b9 Nintendo Switch Pro \u624b\u67c4\u5728 FFXIV \u4e2d\u7a33\u5b9a\u5de5\u4f5c\u3002",
+        "Description": "\u5728\u6e38\u620f\u8fdb\u7a0b\u5185\u76f4\u63a5\u5c06\u5b98\u65b9 Pro \u624b\u67c4\u8f93\u5165\u7ffb\u8bd1\u4e3a FFXIV \u624b\u67c4\u8f93\u5165\uff0c\u4e0d\u521b\u5efa\u865a\u62df\u8bbe\u5907\u3001\u4e0d\u9690\u85cf\u7cfb\u7edf\u624b\u67c4\u3002\u4f7f\u7528 /npro \u6253\u5f00\u8bbe\u7f6e\u3002",
+        "InternalName": "NintendoProBridge",
+        "AssemblyVersion": "0.2.2.0",
+        "RepoUrl": "https://github.com/Luckyumimi/FFXIV-NintendoProBridge",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "controller",
+            "input",
+            "nintendo"
+        ],
+        "DalamudApiLevel": 15,
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/luckyumimi/MyDalamudPlugins/master/plugins/NintendoProBridge/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/luckyumimi/MyDalamudPlugins/master/plugins/NintendoProBridge/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/luckyumimi/MyDalamudPlugins/master/plugins/NintendoProBridge/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1785123652"
+    },
+    {
+        "Author": "attick, daemitus, Khayle, lichi7887",
+        "Name": "XIVComboExpandedCN",
+        "Punchline": "Condenses combos and mutually exclusive abilities onto a single button.",
+        "Description": "\u7c97\u5236\u6ee5\u9020AI\u7ffb\u8bd1",
+        "InternalName": "XIVComboExpandedCN",
+        "AssemblyVersion": "2.0.6.3",
+        "RepoUrl": "https://github.com/lichi7887/XIVComboExpanded",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "combo",
+            "xivcombo",
+            "expanded",
+            "pcombo"
+        ],
+        "DalamudApiLevel": 15,
+        "LoadPriority": 0,
+        "IconUrl": "https://raw.githubusercontent.com/lichi7887/XIVComboExpanded/master/res/icon.png",
+        "ImageUrls": [],
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/luckyumimi/MyDalamudPlugins/master/plugins/XIVComboExpandedCN/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/luckyumimi/MyDalamudPlugins/master/plugins/XIVComboExpandedCN/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/luckyumimi/MyDalamudPlugins/master/plugins/XIVComboExpandedCN/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1784201636"
+    }
 ]
