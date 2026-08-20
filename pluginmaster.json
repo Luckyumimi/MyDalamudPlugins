@@ -36,7 +36,7 @@
         "Punchline": "Nintendo Pro controller for FFXIV\n\u8ba9\u6700\u7ec8\u5e7b\u60f314\u652f\u6301SwitchPro\u624b\u67c4",
         "Description": "\u5728\u6e38\u620f\u8fdb\u7a0b\u5185\u76f4\u63a5\u5c06\u5b98\u65b9 Pro \u624b\u67c4\u8f93\u5165\u7ffb\u8bd1\u4e3a FFXIV \u624b\u67c4\u8f93\u5165\uff0c\u4e0d\u521b\u5efa\u865a\u62df\u8bbe\u5907\u3001\u4e0d\u9690\u85cf\u7cfb\u7edf\u624b\u67c4\u3002\u4f7f\u7528 /npro \u6253\u5f00\u8bbe\u7f6e\u3002",
         "InternalName": "NintendoProBridge",
-        "AssemblyVersion": "0.6.2.0",
+        "AssemblyVersion": "0.6.3.0",
         "RepoUrl": "https://github.com/Luckyumimi/FFXIV-NintendoProBridge",
         "ApplicableVersion": "any",
         "Tags": [
@@ -52,7 +52,7 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/luckyumimi/MyDalamudPlugins/master/plugins/NintendoProBridge/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/luckyumimi/MyDalamudPlugins/master/plugins/NintendoProBridge/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1787185322"
+        "LastUpdate": "1787185831"
     },
     {
         "Author": "attick, daemitus, Khayle, lichi7887",
