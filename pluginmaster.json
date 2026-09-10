@@ -24,6 +24,28 @@
         "LastUpdate": "1787185831"
     },
     {
+        "Author": "oopz-tools",
+        "Name": "Oopz Talking",
+        "Punchline": "\u5728\u5c0f\u961f\u5217\u8868\u4e0a\u76f4\u63a5\u663e\u793a oopz \u8bed\u97f3\u623f\u95f4\u91cc\u8c01\u5728\u8bf4\u8bdd\u3002",
+        "Description": "\u8fde\u63a5 oopz \u672c\u673a WebSocket (127.0.0.1:10274)\uff0c\u628a\u8bed\u97f3\u623f\u95f4\u91cc\u7684\u8bf4\u8bdd/\u9759\u97f3\u72b6\u6001\u753b\u5230 FF14 \u5c0f\u961f\u5217\u8868\u4e0a\uff1a\u7eff\u6846=\u6b63\u5728\u8bf4\u8bdd\uff0c\u84dd\u6846=\u9759\u97f3\uff0c\u9ec4\u6846=\u540d\u5b57\u6ca1\u5bf9\u4e0a\u3002\n\n\u53ea\u9700 oopz \u6635\u79f0\u4e0e\u6e38\u620f\u89d2\u8272\u540d\u4e00\u81f4\uff08\u6216\u5305\u542b\u89d2\u8272\u540d\u7684\u7b2c\u4e00/\u6700\u540e\u4e00\u4e2a\u5b57\uff09\uff0c\u5373\u53ef\u81ea\u52a8\u5339\u914d\uff1b \u4e5f\u53ef\u4ee5\u5728\u8bbe\u7f6e\u91cc\u624b\u52a8\u7ed1\u5b9a\u89d2\u8272\u540d\u5230 oopz \u6210\u5458\u540d\u3002\n\n\u6570\u636e\u6e90\u4e0e\u672c\u673a oopz \u5ba2\u6237\u7aef\u76f4\u8fde\uff0c\u4e0d\u51fa\u673a\u5668\u3002",
+        "InternalName": "OopzTalking",
+        "AssemblyVersion": "0.1.0.0",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "UI"
+        ],
+        "DalamudApiLevel": 15,
+        "LoadPriority": 0,
+        "IconUrl": "https://raw.githubusercontent.com/Luckyumimi/MyDalamudPlugins/master/plugins/OopzTalking/icon.png",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/luckyumimi/MyDalamudPlugins/master/plugins/OopzTalking/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/luckyumimi/MyDalamudPlugins/master/plugins/OopzTalking/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/luckyumimi/MyDalamudPlugins/master/plugins/OopzTalking/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1789050919"
+    },
+    {
         "Author": "attick, daemitus, Khayle, lichi7887",
         "Name": "XIVComboExpandedCN",
         "Punchline": "Condenses combos and mutually exclusive abilities onto a single button.",
