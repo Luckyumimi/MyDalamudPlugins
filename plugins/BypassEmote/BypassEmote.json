@@ -19,6 +19,6 @@
   "CanUnloadAsync": false,
   "LoadPriority": 0,
   "IconUrl": "https://raw.githubusercontent.com/Luckyumimi/MyDalamudPlugins/master/plugins/BypassEmote/icon.png",
-  "Punchline": "No emotes? No problem.",
+  "Punchline": "（国服适配）无视限制，游玩任意情感动作。",
   "AcceptsFeedback": true
 }
