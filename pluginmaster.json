@@ -6,7 +6,7 @@
         "Description": "\u7c97\u5236\u6ee5\u9020AI\u7ffb\u8bd1",
         "InternalName": "XIVComboExpandedCN",
         "AssemblyVersion": "2.0.6.3",
-        "RepoUrl": "https://github.com/lichi7887/XIVComboExpanded",
+        "RepoUrl": "https://github.com/Luckyumimi/XIVComboExpandedCN",
         "ApplicableVersion": "any",
         "Tags": [
             "combo",
@@ -16,7 +16,7 @@
         ],
         "DalamudApiLevel": 15,
         "LoadPriority": 0,
-        "IconUrl": "https://raw.githubusercontent.com/lichi7887/XIVComboExpanded/master/res/icon.png",
+        "IconUrl": "https://raw.githubusercontent.com/Luckyumimi/XIVComboExpandedCN/master/res/icon.png",
         "ImageUrls": [],
         "DownloadLinkInstall": "https://raw.githubusercontent.com/luckyumimi/MyDalamudPlugins/master/plugins/XIVComboExpandedCN/latest.zip",
         "IsHide": false,
