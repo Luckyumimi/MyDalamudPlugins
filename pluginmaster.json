@@ -1,78 +1,5 @@
 [
     {
-        "Author": "attick, daemitus, Khayle, Sachimi",
-        "Name": "XIVComboExpandedCN",
-        "Punchline": "Condenses combos and mutually exclusive abilities onto a single button.",
-        "Description": "\u7c97\u5236\u6ee5\u9020AI\u7ffb\u8bd1",
-        "InternalName": "XIVComboExpandedCN",
-        "AssemblyVersion": "2.0.6.3",
-        "RepoUrl": "https://github.com/Luckyumimi/XIVComboExpandedCN",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "combo",
-            "xivcombo",
-            "expanded",
-            "pcombo"
-        ],
-        "DalamudApiLevel": 15,
-        "LoadPriority": 0,
-        "IconUrl": "https://raw.githubusercontent.com/Luckyumimi/XIVComboExpandedCN/master/res/icon.png",
-        "ImageUrls": [],
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/luckyumimi/MyDalamudPlugins/master/plugins/XIVComboExpandedCN/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/luckyumimi/MyDalamudPlugins/master/plugins/XIVComboExpandedCN/latest.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/luckyumimi/MyDalamudPlugins/master/plugins/XIVComboExpandedCN/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1789940705"
-    },
-    {
-        "Author": "Sachimi",
-        "Name": "Oopz Talking",
-        "Punchline": "FF14 \u5c0f\u961f\u5217\u8868\u76f4\u63a5\u663e\u793a oopz \u8bed\u97f3\u623f\u91cc\u8c01\u5728\u8bf4\u8bdd\u3001\u8c01\u9759\u97f3\u4e86\u3002",
-        "Description": "\u8fde\u63a5 oopz \u672c\u673a WebSocket (127.0.0.1:10274)\uff0c\u628a\u8bed\u97f3\u623f\u95f4\u91cc\u7684\u8bf4\u8bdd/\u9759\u97f3\u72b6\u6001\u753b\u5230 FF14 \u5c0f\u961f\u5217\u8868\u4e0a\uff1a\u7eff\u6846=\u6b63\u5728\u8bf4\u8bdd\uff0c\u84dd\u6846=\u9759\u97f3\uff0c\u9ec4\u6846=\u540d\u5b57\u6ca1\u5bf9\u4e0a\u3002\n\n\u53ea\u9700 oopz \u6635\u79f0\u4e0e\u6e38\u620f\u89d2\u8272\u540d\u4e00\u81f4\uff08\u6216\u5305\u542b\u89d2\u8272\u540d\u7684\u7b2c\u4e00/\u6700\u540e\u4e00\u4e2a\u5b57\uff09\uff0c\u5373\u53ef\u81ea\u52a8\u5339\u914d\uff1b \u4e5f\u53ef\u4ee5\u5728\u8bbe\u7f6e\u91cc\u624b\u52a8\u7ed1\u5b9a\u89d2\u8272\u540d\u5230 oopz \u6210\u5458\u540d\u3002\n\n\u6570\u636e\u6e90\u4e0e\u672c\u673a oopz \u5ba2\u6237\u7aef\u76f4\u8fde\uff0c\u4e0d\u51fa\u673a\u5668\u3002",
-        "InternalName": "OopzTalking",
-        "AssemblyVersion": "0.2.10.0",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "UI"
-        ],
-        "DalamudApiLevel": 15,
-        "LoadPriority": 0,
-        "IconUrl": "https://raw.githubusercontent.com/Luckyumimi/MyDalamudPlugins/master/plugins/OopzTalking/icon.png",
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/luckyumimi/MyDalamudPlugins/master/plugins/OopzTalking/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/luckyumimi/MyDalamudPlugins/master/plugins/OopzTalking/latest.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/luckyumimi/MyDalamudPlugins/master/plugins/OopzTalking/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1789940705"
-    },
-    {
-        "Author": "Sachimi",
-        "Name": "Nintendo Pro Bridge",
-        "Punchline": "Nintendo Pro controller for FFXIV\n\u8ba9\u6700\u7ec8\u5e7b\u60f314\u652f\u6301SwitchPro\u624b\u67c4",
-        "Description": "\u5728\u6e38\u620f\u8fdb\u7a0b\u5185\u76f4\u63a5\u5c06\u5b98\u65b9 Pro \u624b\u67c4\u8f93\u5165\u7ffb\u8bd1\u4e3a FFXIV \u624b\u67c4\u8f93\u5165\uff0c\u4e0d\u521b\u5efa\u865a\u62df\u8bbe\u5907\u3001\u4e0d\u9690\u85cf\u7cfb\u7edf\u624b\u67c4\u3002\u4f7f\u7528 /npro \u6253\u5f00\u8bbe\u7f6e\u3002",
-        "InternalName": "NintendoProBridge",
-        "AssemblyVersion": "0.6.6.0",
-        "RepoUrl": "https://github.com/Luckyumimi/FFXIV-NintendoProBridge",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "controller",
-            "input",
-            "nintendo"
-        ],
-        "DalamudApiLevel": 15,
-        "IconUrl": "https://raw.githubusercontent.com/Luckyumimi/MyDalamudPlugins/master/plugins/NintendoProBridge/icon.png",
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/luckyumimi/MyDalamudPlugins/master/plugins/NintendoProBridge/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/luckyumimi/MyDalamudPlugins/master/plugins/NintendoProBridge/latest.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/luckyumimi/MyDalamudPlugins/master/plugins/NintendoProBridge/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1789940705"
-    },
-    {
         "Author": "Aspher0, Sachimi",
         "Name": "Bypass Emote",
         "Punchline": "\uff08\u56fd\u670d\u9002\u914d\uff09\u65e0\u89c6\u9650\u5236\uff0c\u64ad\u653e\u4efb\u610f\u60c5\u611f\u52a8\u4f5c\u3002",
@@ -97,6 +24,79 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/luckyumimi/MyDalamudPlugins/master/plugins/BypassEmote/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/luckyumimi/MyDalamudPlugins/master/plugins/BypassEmote/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1789940705"
+        "LastUpdate": "1789939995"
+    },
+    {
+        "Author": "Sachimi",
+        "Name": "Nintendo Pro Bridge",
+        "Punchline": "Nintendo Pro controller for FFXIV\n\u8ba9\u6700\u7ec8\u5e7b\u60f314\u652f\u6301SwitchPro\u624b\u67c4",
+        "Description": "\u5728\u6e38\u620f\u8fdb\u7a0b\u5185\u76f4\u63a5\u5c06\u5b98\u65b9 Pro \u624b\u67c4\u8f93\u5165\u7ffb\u8bd1\u4e3a FFXIV \u624b\u67c4\u8f93\u5165\uff0c\u4e0d\u521b\u5efa\u865a\u62df\u8bbe\u5907\u3001\u4e0d\u9690\u85cf\u7cfb\u7edf\u624b\u67c4\u3002\u4f7f\u7528 /npro \u6253\u5f00\u8bbe\u7f6e\u3002",
+        "InternalName": "NintendoProBridge",
+        "AssemblyVersion": "0.6.6.0",
+        "RepoUrl": "https://github.com/Luckyumimi/FFXIV-NintendoProBridge",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "controller",
+            "input",
+            "nintendo"
+        ],
+        "DalamudApiLevel": 15,
+        "IconUrl": "https://raw.githubusercontent.com/Luckyumimi/MyDalamudPlugins/master/plugins/NintendoProBridge/icon.png",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/luckyumimi/MyDalamudPlugins/master/plugins/NintendoProBridge/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/luckyumimi/MyDalamudPlugins/master/plugins/NintendoProBridge/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/luckyumimi/MyDalamudPlugins/master/plugins/NintendoProBridge/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1789924663"
+    },
+    {
+        "Author": "Sachimi",
+        "Name": "Oopz Talking",
+        "Punchline": "FF14 \u5c0f\u961f\u5217\u8868\u76f4\u63a5\u663e\u793a oopz \u8bed\u97f3\u623f\u91cc\u8c01\u5728\u8bf4\u8bdd\u3001\u8c01\u9759\u97f3\u4e86\u3002",
+        "Description": "\u8fde\u63a5 oopz \u672c\u673a WebSocket (127.0.0.1:10274)\uff0c\u628a\u8bed\u97f3\u623f\u95f4\u91cc\u7684\u8bf4\u8bdd/\u9759\u97f3\u72b6\u6001\u753b\u5230 FF14 \u5c0f\u961f\u5217\u8868\u4e0a\uff1a\u7eff\u6846=\u6b63\u5728\u8bf4\u8bdd\uff0c\u84dd\u6846=\u9759\u97f3\uff0c\u9ec4\u6846=\u540d\u5b57\u6ca1\u5bf9\u4e0a\u3002\n\n\u53ea\u9700 oopz \u6635\u79f0\u4e0e\u6e38\u620f\u89d2\u8272\u540d\u4e00\u81f4\uff08\u6216\u5305\u542b\u89d2\u8272\u540d\u7684\u7b2c\u4e00/\u6700\u540e\u4e00\u4e2a\u5b57\uff09\uff0c\u5373\u53ef\u81ea\u52a8\u5339\u914d\uff1b \u4e5f\u53ef\u4ee5\u5728\u8bbe\u7f6e\u91cc\u624b\u52a8\u7ed1\u5b9a\u89d2\u8272\u540d\u5230 oopz \u6210\u5458\u540d\u3002\n\n\u6570\u636e\u6e90\u4e0e\u672c\u673a oopz \u5ba2\u6237\u7aef\u76f4\u8fde\uff0c\u4e0d\u51fa\u673a\u5668\u3002",
+        "InternalName": "OopzTalking",
+        "AssemblyVersion": "0.2.11.0",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "UI"
+        ],
+        "DalamudApiLevel": 15,
+        "LoadPriority": 0,
+        "IconUrl": "https://raw.githubusercontent.com/Luckyumimi/MyDalamudPlugins/master/plugins/OopzTalking/icon.png",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/luckyumimi/MyDalamudPlugins/master/plugins/OopzTalking/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/luckyumimi/MyDalamudPlugins/master/plugins/OopzTalking/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/luckyumimi/MyDalamudPlugins/master/plugins/OopzTalking/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1789999829"
+    },
+    {
+        "Author": "attick, daemitus, Khayle, Sachimi",
+        "Name": "XIVComboExpandedCN",
+        "Punchline": "Condenses combos and mutually exclusive abilities onto a single button.",
+        "Description": "\u7c97\u5236\u6ee5\u9020AI\u7ffb\u8bd1",
+        "InternalName": "XIVComboExpandedCN",
+        "AssemblyVersion": "2.0.6.3",
+        "RepoUrl": "https://github.com/Luckyumimi/XIVComboExpandedCN",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "combo",
+            "xivcombo",
+            "expanded",
+            "pcombo"
+        ],
+        "DalamudApiLevel": 15,
+        "LoadPriority": 0,
+        "IconUrl": "https://raw.githubusercontent.com/Luckyumimi/XIVComboExpandedCN/master/res/icon.png",
+        "ImageUrls": [],
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/luckyumimi/MyDalamudPlugins/master/plugins/XIVComboExpandedCN/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/luckyumimi/MyDalamudPlugins/master/plugins/XIVComboExpandedCN/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/luckyumimi/MyDalamudPlugins/master/plugins/XIVComboExpandedCN/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1789940672"
     }
 ]
